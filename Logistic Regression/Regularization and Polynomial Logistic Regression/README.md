@@ -51,5 +51,5 @@ This project focuses on building a polynomial logistic regression model and expl
 This project serves as an educational exploration of regularization and its impact on the decision boundary of a logistic regression model. It demonstrates how different lambda values can lead to different levels of model complexity and overfitting. Remember that the primary focus here is to understand the effects of lambda rather than optimizing the model's performance for practical use.
 
 ## Acknowledgments
-- The preloaded weights and dataset are part of the "Machine Learning" course on Coursera by Stanford University.
+- The preloaded  dataset are part of the "Machine Learning" course on Coursera by Stanford University.
 - This code serves as a simplified example for educational purposes 
