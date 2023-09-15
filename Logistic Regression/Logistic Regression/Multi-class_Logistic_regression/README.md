@@ -1,4 +1,4 @@
-# Multi-Class Logistic Regression from Scratch - README
+# Multi-Class Logistic Regression from Scratch 
 
 ## Introduction
 
