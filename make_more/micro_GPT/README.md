@@ -1,4 +1,4 @@
-# NanoGPT From Scratch 🚀
+# MicroGPT From Scratch 🚀
 
 A minimal Transformer-based character-level language model built with PyTorch.
 
